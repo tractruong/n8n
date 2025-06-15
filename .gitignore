@@ -1,0 +1,23 @@
+# Environment variables
+.env
+.env.*
+!.env.example
+
+# n8n data
+n8n_data/
+
+# Logs
+*.log
+
+# Node modules (if any)
+node_modules/
+
+# IDE specific files
+.idea/
+.vscode/
+*.swp
+*.swo
+
+# OS specific files
+.DS_Store
+Thumbs.db
